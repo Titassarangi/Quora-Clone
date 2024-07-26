@@ -1,1 +1,1 @@
-Clone of Quora
+The Quora Clone project aims to replicate the core functionalities of the Quora platform, providing a space for users to ask questions and share answers. Built using HTML, CSS, and JavaScript, this project focuses on front-end development to create a user-friendly interface that mimics the look and feel of Quora. It includes features for posting questions, viewing responses, and navigating through different topics and user profiles.
